@@ -1,0 +1,17 @@
+C:\Users\HDJERMOUNI\source\repos\ConsolePatternExamen\obj\Debug\net6.0\ConsolePatternExamen.csproj.AssemblyReference.cache
+C:\Users\HDJERMOUNI\source\repos\ConsolePatternExamen\obj\Debug\net6.0\ConsolePatternExamen.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HDJERMOUNI\source\repos\ConsolePatternExamen\obj\Debug\net6.0\ConsolePatternExamen.AssemblyInfoInputs.cache
+C:\Users\HDJERMOUNI\source\repos\ConsolePatternExamen\obj\Debug\net6.0\ConsolePatternExamen.AssemblyInfo.cs
+C:\Users\HDJERMOUNI\source\repos\ConsolePatternExamen\obj\Debug\net6.0\ConsolePatternExamen.csproj.CoreCompileInputs.cache
+C:\Users\HDJERMOUNI\source\repos\ConsolePatternExamen\bin\Debug\net6.0\ConsolePatternExamen.exe
+C:\Users\HDJERMOUNI\source\repos\ConsolePatternExamen\bin\Debug\net6.0\ConsolePatternExamen.deps.json
+C:\Users\HDJERMOUNI\source\repos\ConsolePatternExamen\bin\Debug\net6.0\ConsolePatternExamen.runtimeconfig.json
+C:\Users\HDJERMOUNI\source\repos\ConsolePatternExamen\bin\Debug\net6.0\ConsolePatternExamen.dll
+C:\Users\HDJERMOUNI\source\repos\ConsolePatternExamen\bin\Debug\net6.0\ConsolePatternExamen.pdb
+C:\Users\HDJERMOUNI\source\repos\ConsolePatternExamen\obj\Debug\net6.0\ConsolePatternExamen.dll
+C:\Users\HDJERMOUNI\source\repos\ConsolePatternExamen\obj\Debug\net6.0\refint\ConsolePatternExamen.dll
+C:\Users\HDJERMOUNI\source\repos\ConsolePatternExamen\obj\Debug\net6.0\ConsolePatternExamen.pdb
+C:\Users\HDJERMOUNI\source\repos\ConsolePatternExamen\obj\Debug\net6.0\ConsolePatternExamen.genruntimeconfig.cache
+C:\Users\HDJERMOUNI\source\repos\ConsolePatternExamen\obj\Debug\net6.0\ref\ConsolePatternExamen.dll
+C:\Users\HDJERMOUNI\source\repos\ConsolePatternExamen\obj\Debug\net6.0\ConsolePatternExamen.Properties.Resources.resources
+C:\Users\HDJERMOUNI\source\repos\ConsolePatternExamen\obj\Debug\net6.0\ConsolePatternExamen.csproj.GenerateResource.cache
